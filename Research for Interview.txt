@@ -1,0 +1,53 @@
+Research:
+
+1. What is CSS?
+2. What is a CSS measurement unit?
+3. What are selectors in CSS? & How many of selectors are there? (Learn Advance/Complex CSS Selector)
+4. What is difference between class and id in CSS?
+5. What is box model in CSS?
+6. What is the difference between an inline element and a block element?
+
+
+
+Answer:
+
+1. CSS stands for cascading style sheets. In short, CSS is a design language that makes a website look more appealing than just plain or uninspiring pieces of text. Whereas HTML largely determines textual content, CSS determines visual structure, layout, and aesthetics. HTML is a markup language, and CSS is a style sheet language. Think “look and feel” when you think CSS.
+
+2. There are various units in CSS to express the measurement and length. A CSS unit is used to determine the property size, which we set for an element or its content. The units in CSS are required to define the measurement such as margin: 20px; in which the px (or pixel) is the CSS unit. They are used to set margin, padding, lengths, and so on.
+
+3. A CSS selector is the first part of a CSS Rule. It is a pattern of elements and other terms that tell the browser which HTML elements should be selected to have the CSS property values inside the rule applied to them.
+
+4. The difference between an ID and a class is that an ID is only used to identify one single element in our HTML. IDs are only used when one element on the page should have a particular style applied to it. However, a class can be used to identify more than one HTML element.
+
+5. In CSS, the term "box model" is used when talking about design and layout. The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content.
+
+6. Block elements are a kind of blocks where there are many elements in a line itself. While inline elements take up the space of an entire line and there will be only one line within the space width. Inline elements do not respect the top and bottom margins but only the left and right and also consider the padding.
+
+
+
+Research Link:
+
+CSS:		https://blog.devmountain.com/what-is-css-and-why-use-it/
+CSS Measure:	https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units
+
+
+CSS Selector:	https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
+		https://www.w3schools.com/cssref/css_selectors.asp
+		https://moderncss.dev/guide-to-advanced-css-selectors-part-one/
+		https://learn.shayhowe.com/advanced-html-css/complex-selectors/
+		https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/
+
+
+Class vs ID:	https://careerkarma.com/blog/css-class-vs-id-2/
+		https://www.educative.io/edpresso/class-and-id-selectors-in-css
+
+
+CSS Box Model:	https://www.w3schools.com/css/css_boxmodel.asp
+		https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
+
+
+Inline & Block: https://www.educba.com/inline-vs-block/
+		https://www.samanthaming.com/pictorials/css-inline-vs-inlineblock-vs-block/
+		http://web.simmons.edu/~grovesd/comm244/notes/week4/block-inline
+
+
