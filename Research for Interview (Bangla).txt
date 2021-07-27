@@ -1,0 +1,53 @@
+প্রশ্নঃ
+
+১. CSS কি?
+২. CSS পরিমাপ ইউনিট কয়টি?
+৩. CSS সিলেক্টর কি?
+৪. class ও id এর মধ্যে পার্থক্য কি?
+৫. box model কি?
+৬. inline element ও  block element এর মাঝে পার্থক্য কি?
+
+
+
+উত্তরঃ
+
+১. সিএসএস এমন একটি ভাষা (Language) যা এইচটিএমএল ডকুমেন্টের স্টাইল বর্ণনা করে। সিএসএস বর্ণনা করে যে কীভাবে এইচটিএমএল উপাদানগুলি স্ক্রিন, বা অন্য মিডিয়ায় প্রদর্শিত হবে। Html এবং সিএসএস সবসময় একসাথে ব্যবহৃত হয়।আসলে সিএসএস ও একটি  ল্যাঙ্গুয়েজে   Html এর মতোই  Html তে অনেকরকমের ট্যাগ ব্যবহার করা হয়, যেমন  <h1> header tag ,<p> paragraph tag, <img> image tag  এই সমস্ত ট্যাগ গুলিকে আমাদের ব্রাউসার তে আরো সুন্দর ভাবে দেখানোর জন্য সি এস এস ব্যবহার করা হয়। সংক্ষেপে, এটি ওয়েবসাইটের এইচটিএমএল উপাদানগুলিকে (Element) নিয়ন্ত্রণ করে।সিএসএস  এর কাজ হলো ওয়েব পেজটিকে আকর্ষিত করা বা ডিজাইন বা Layout তৈরী  করা।HTML এবং CSS এই দুটি দিয়েই আপনি পুরো ওয়েবসাইট এর ডিসাইন করতে পারবেন। এক কথায় একটি সুন্দর ওয়েবসাইট ডিসাইন করতে হলে আপনাকে এই  CSS Language খুব ভালো করে শিখতে হবে।
+
+২. দৈর্ঘ্য বা length বা রৈখিক কোন সিএসএস প্রপার্টির দৈর্ঘ্য বা length নির্ধারণ করার জন্য সিএসএস এর বিভিন্ন একক বা Unit ব্যবহার করা যায়। বেশ কিছু সিএসএস প্রোপার্টি "length" নির্দিষ্ট করতে রৈখিক মান গ্রহন করে, যেমন - width, margin, padding, font-size, border-width ইত্যাদি।দৈর্ঘ্য একটি সংখ্যা যা বিভিন্ন দৈর্ঘ্যের একক অনুসরন করে, যেমন 10px, 2em ইত্যাদি। ইউনিট ও সংখ্যার মধ্যে কোনো হোয়াইট স্পেস থাকবে না। যদি মান শূন্য হয় তাহলে ইউনিট এটিকে উপেক্ষা করতে পারে। কিছু সিএসএস প্রোপার্টির জন্য, ঋনাত্মক বা Negetive মানও গ্রহনযোগ্য হয়ে থাকে।
+
+৩. যে সকল এইচটিএমএল এলিমেন্টে স্টাইল কোড প্রয়োগ করতে হবে, সে গুলো কে খুজে পেতে বা নির্ধারণ করতে সিএসএস সিলেক্টর ব্যবহার করা হয়। অর্থাৎ কোন এইচটিএমএল এলিমেন্টকে, নির্দিষ্ট ভাবে নির্ধারণ করে তাতে স্টাইল কোড প্রয়োগ করার পদ্ধতিটিই হল সিএসএস সিলেক্টর।
+
+৪.  আইডি (Id) হল ইউনিক , একটা এলিমেন্টে কেবল মাত্র একটা আইডি (Id) ব্যাবহার করা যাবে, এবং পুরো কোড জুরে যেকোন আইডি (Id) শুধুমাত্র একবারের জন্যই ব্যাবহার করা যাবে ।কিন্তু  ক্লাস (Class) একটা এলিমেন্টে যত খুশি ক্লাস (Class) ব্যাবহার করা যাবে , এবং একই ক্লাস (Class) যেকোন এলিমেন্টে ব্যাবহার করা যাবে 
+
+৫. সিএসএস বক্স মডেল হল এইচটিএমএল এলিমেন্টের চারপাশের বর্ডার, মার্জিন, প্যাডিং এবং এলিমেন্ট বা কন্টেন্ট এর সম্মিলিত অবস্থা। বক্স মডেল প্রপার্টিগুলো কোন কন্টেন্ট এর চারপাশে বর্ডার, মার্জিন, প্যাডিং বা আউটলাইন নির্ধারণ করে।
+
+৬. ব্লক লেভেল এবং ইনলাইন এলিমেন্তের মুল পার্থক্য হল ব্লক লেভেল এলিমেন্ট গুলো তার ডানপাশের সম্পূর্ন প্রস্থ ধারণ করে আর ইনলাইন এলিমেন্ট শুধুমাত্র তার নির্দিষ্ট প্রয়োজনীয় প্রস্থটুকু ধারণ করে।
+
+
+
+রিসোর্সের লিংকঃ
+
+CSS: 		https://bnglaworld.blogspot.com/2019/08/css.html
+		https://banglatech.info/what-is-css-in-bangla/
+		https://www.websschool.com/css/css-introduction.html
+
+CSS Unit:	http://www.websschool.com/css/css-units.html
+		https://www.sattacademy.com/cssref/css-units.php
+
+CSS Selector:	http://websschool.com/css/css-selector.html
+		http://beporowa.blogspot.com/2017/09/cascading-style-sheet-css-css-html-css.html
+		https://www.sattacademy.com/cssref/css-selectors.php
+		https://www.webcoachbd.com/css-tutorials/html-selector
+
+Class vs Id:	https://bn.weblogographic.com/difference-between-class-and-id-2587
+		http://realerlab.blogspot.com/2018/01/css-class-vs-id.html
+
+Box Model:	http://www.websschool.com/css/css-box-model.html
+		https://bangla.codingpractise.com/css/css-box-model/
+
+nline vs Block: http://www.websschool.com/html5/html_blocks.html
+		https://kivabe.com/codes/html/inline-block-level-elements/
+		https://cutt.ly/yQyioS8
+
+
+
